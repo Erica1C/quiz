@@ -6,4 +6,7 @@
 .cartao{
     background-color: #8365B5;
     color: #FFFF;
+    border-radius: 20px;
+    height: 20rem;
+    flex-grow: ;
 }
