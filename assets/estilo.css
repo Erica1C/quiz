@@ -1,0 +1,9 @@
+.conteudo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cartao{
+    background-color: #8365B5;
+    
+}
