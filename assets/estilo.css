@@ -19,5 +19,9 @@
     font-size: 20px;
 }
 .footer{
-    background-color: #CCADFF;
+    background-color: #c4a7f3;
+    color: black;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
 }
