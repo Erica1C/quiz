@@ -15,9 +15,14 @@
     text-align: center;
 
 }
+.cartao:hover{
+    background-color: #8160b5;
+
+}
 .cartao--resposta{
     font-size: 20px;
 }
+
 .rodape{
     background-color: #8160b5;
     color: black;
