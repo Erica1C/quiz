@@ -18,7 +18,7 @@
 .cartao--resposta{
     font-size: 20px;
 }
-.footer{
+.rodape{
     background-color: #8160b5;
     color: black;
     position: fixed;
@@ -26,5 +26,4 @@
     width: 100%;
     height: 25px;
     font-size: 14px;
-    
 }
