@@ -5,10 +5,11 @@ function criarCartao(pergunta,resposta){
 
     cartao.innerHTML = `
     <div class="cartao--conteudo">
-                <div class="cartao--pergunta"><p>Qual o maior animal aquático do mundo?</p></div>
-                <div class="cartao--resposta"><p>Baleia-azul.</p></div>
+                <div class="cartao--pergunta"><p>${pergunta}</p></div>
+                <div class="cartao--resposta"><p>${resposta}.</p></div>
             </div>
             `
 
     conteudo.appendChild(cartao)
 }
+criarCartao(1,2)
